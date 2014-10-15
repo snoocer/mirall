@@ -40,5 +40,5 @@ desktop.ini
 
 *.gnucash.tmp-*
 
-]Daten/
-]User/
+]Fileservice_Profine_Daten/
+]Fileservice_Profine_User/
